@@ -1,2 +1,2 @@
 # Rerevisionofcshap
-revision for suty c#
+revision for study c#
